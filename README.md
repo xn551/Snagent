@@ -6,4 +6,4 @@ However, to enhance multi-agent capability, Snake-Agent needs to cooperate. Thes
 The core principle is to leverage Sneke-Agents for mutual evaluation, analogous to the generator and discriminator in a GAN (Generative Adversarial Network), but designed to mimic human-like behavior. To mitigate biases or hallucinations inherent in mid-scale AI models, different role-class(Sneke-Agnet) should select different models, especially for worker-roles (e.g., Planner, Coder) versus supervisory-roles (e.g., Reviewer, Evaluator).
 
 ## Project Progress
-- 2026-3-9 Added the submodule Snako, a cartoon LLM chat interface. Available in https://github.com/xn551/Sneko
+- 2026-3-9 Added the submodule Snekko, a cartoon LLM chat interface. Available in https://github.com/xn551/Snekko

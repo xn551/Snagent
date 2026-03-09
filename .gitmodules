@@ -1,0 +1,3 @@
+[submodule "sneko"]
+    path = libs/sneko
+    url = https://github.com/xn551/Sneko
